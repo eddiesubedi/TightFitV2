@@ -4,7 +4,7 @@ import com.badlogic.gdx.Game;
 import com.badlogic.gdx.assets.AssetManager;
 import com.tightfit.screen.MainScreen;
 import com.tightfit.util.Assets;
-
+//test
 public class TightFitMain extends Game{
 	@Override
 	public void create() {
